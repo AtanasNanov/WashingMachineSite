@@ -1,0 +1,15 @@
+body {
+	
+}
+#left-text {
+	width: 50%;
+	float: left;
+	font-size: 17px;
+	border-width: 15px;
+}
+
+#right-text {
+	width: 50%;
+	float: right;
+	font-size: 17px;
+}
